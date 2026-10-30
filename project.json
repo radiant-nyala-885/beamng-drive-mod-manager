@@ -1,0 +1,22 @@
+{
+  "name": "beamng-drive-mod-manager",
+  "displayName": "BeamNG Drive Mod Manager",
+  "programType": "mod-manager",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Mod categories",
+    "Vehicle profiles",
+    "Configuration notes"
+  ],
+  "topics": [
+    "beamng-drive-mod-manager",
+    "beamng-drive-tools",
+    "beamng-drive-menu",
+    "beamng-drive-settings",
+    "beamng-drive-configs",
+    "beamng-drive-mod-categories",
+    "beamng-drive-vehicle-profiles"
+  ]
+}
